@@ -1,0 +1,12 @@
+{
+  "name": "node-speedtest-mini",
+  "description": "A speedtest mini server adapted to NodeJS",
+  "version": "0.0.1",
+  "author": "korya <korya@github.com>",
+  "dependencies": {
+    "express": "3.x"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
